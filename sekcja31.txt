@@ -4,3 +4,4 @@ ZmianaGalaz2
 prostaWersja
 Zmiana1
 Zmiana2
+ZmianaClone1
