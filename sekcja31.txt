@@ -1,2 +1,3 @@
 Zmiana1
 ZmianaGalaz1
+ZmianaGalaz2
