@@ -2,3 +2,4 @@ Zmiana1
 ZmianaGalaz1
 ZmianaGalaz2
 prostaWersja
+Zmiana1
