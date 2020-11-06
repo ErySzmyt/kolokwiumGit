@@ -1,2 +1,4 @@
 Zmiana1
-NaprawaBledu1
+ZmianaGalaz1
+ZmianaGalaz2
+prostaWersja
