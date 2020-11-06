@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Zmiana2
-=======
 Zmiana2
 Zmiana3
->>>>>>> parent of 416c533... Wydanie2
+Wydanie2 
